@@ -14,3 +14,11 @@ body {
     padding-top: 50px;
     font-family: 'Courier New', Courier, monospace;
 }
+img{
+    border-style: solid;
+    border-color: antiquewhite;
+    border-radius: 2px;
+    width: 500px;
+    float: right;
+    margin-top: 100px;
+}   
