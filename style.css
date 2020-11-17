@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+#p2{
+    margin-top: 20px;
+}
+.szoveg{
+    color: aliceblue;
+    text-align: left;
+    font-size: large;
+    line-height: 35px;
+    width: 300px;
+    padding-left: 30%;
+    padding-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
